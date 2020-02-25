@@ -1,0 +1,34 @@
+{
+  "name": "gdl004-md-links",
+  "version": "1.0.0",
+  "description": "\"Verificación de links\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MonicaMartz/GDL004-md-links.git"
+  },
+  "author": "\"Monica Martinez\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MonicaMartz/GDL004-md-links/issues"
+  },
+  "homepage": "https://github.com/MonicaMartz/GDL004-md-links#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.8.4",
+    "@babel/core": "^7.8.4",
+    "@babel/preset-env": "^7.8.4",
+    "@typescript-eslint/eslint-plugin": "^2.19.2",
+    "@typescript-eslint/parser": "^2.19.2",
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.20.1",
+    "eslint-plugin-react": "^7.18.3",
+    "jest": "^25.1.0"
+  },
+  "dependencies": {
+    "editorconfig": "^0.15.3"
+  }
+}
