@@ -1,7 +1,7 @@
 module.exports.constructionOptions = (params) => {
    //params siempre debe ser un Array
    const options = {
-      valida:false,
+      validate:false,
       stats: false
     }
 

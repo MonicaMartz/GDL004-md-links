@@ -29,6 +29,7 @@
     "jest": "^25.1.0"
   },
   "dependencies": {
-    "editorconfig": "^0.15.3"
+    "editorconfig": "^0.15.3",
+    "markdown-link-extractor": "^1.2.2"
   }
 }
